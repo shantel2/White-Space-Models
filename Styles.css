@@ -27,7 +27,7 @@
 }
 
 #banner{
-	background-image: linear-gradient(rgba(0, 0, 0, 0.1), #b984ec),url(images/banner.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, 0.1), #b984ec),url(banner.jpg);
 	/*#009688  #2fb7ee   #b06af2*/
 	height: 660px;
 	background-size: cover;
